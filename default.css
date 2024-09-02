@@ -56,3 +56,7 @@ li a.active {
   background-color: ;
   color: white;
 }
+.image{
+  height: 500px;
+  width: 500px;
+}
